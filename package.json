@@ -1,5 +1,5 @@
 {
-	"name": "weky",
+	"name": "weky-advanced",
 	"version": "3.1.8",
 	"description": "A fun npm package to play games within Discord with buttons!",
 	"main": "index.js",

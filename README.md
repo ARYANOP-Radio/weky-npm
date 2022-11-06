@@ -117,6 +117,8 @@ client.login('DISCORD_BOT_TOKEN');
 - **[Face#5454](https://github.com/face-hh)**
 - **[Sujal Goel#7602](https://github.com/sujalgoel)**
 - **[rayz#4986](https://github.com/rayzdev)**
-
+## Disclaimer
+this package was created for https://reefbot.xyz
+copyrights to thier owner
 ## Support ❔
 <a href="https://discord.gg/ANzBrkcXZy"><img src="https://invidget.switchblade.xyz/ANzBrkcXZy" /></a>

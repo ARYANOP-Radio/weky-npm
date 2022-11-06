@@ -166,7 +166,7 @@ module.exports = async (options) => {
 				});
 			}
 
-			const calc = msg.createMessageComponentCollector({
+			const calc = interaction.channel.createMessageComponentCollector({
 				filter: (fn) => fn,
 			});
 
